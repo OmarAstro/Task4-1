@@ -26,7 +26,7 @@ summary {
   grid-template-columns: repeat(auto-fill, minmax(225px, 2fr));
   gap: 40px;
   max-width: 90%;
-  margin-right: 0;
+  margin-left: 5px;
 }
 @media (min-width: 768px) {
   .container1 {
