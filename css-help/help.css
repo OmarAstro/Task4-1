@@ -25,13 +25,12 @@ summary {
   align-items: center;
   grid-template-columns: repeat(auto-fill, minmax(225px, 2fr));
   gap: 40px;
-  max-width: 90%;
-  margin-left: 5px;
+  max-width: 100%;
+  margin-left: 20%;
 }
 @media (min-width: 768px) {
   .container1 {
-    max-width: 90%;
-    width: 730px;
+    width: 750px;
     grid-template-columns: repeat(auto-fill, minmax(170px, 2fr));
   }
 }
